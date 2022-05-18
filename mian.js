@@ -1,3 +1,3 @@
-body{
-color:"black"
+function never() {
+    console.log("abc");
 }
